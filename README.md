@@ -1,4 +1,4 @@
-# project-7
+# favourite-currency
 
 ## Project setup
 ```
